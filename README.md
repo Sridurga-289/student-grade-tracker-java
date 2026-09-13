@@ -115,3 +115,14 @@ GitHub: [Sridurga-289](https://github.com/Sridurga-289)
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
+## 📸 Screenshots
+
+### 🏠 Main Application
+![Student Grade Tracker](screenshots/home.png)
+### AddDeatails 
+![Student Grade Tracker](screenshots/adddetails.png)
+### 🔍 Search Student
+![Search Student](screenshots/search.png)
+
+### 📊 Performance Summary
+![Performance Summary](screenshots/summary.png)
